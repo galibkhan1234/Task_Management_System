@@ -10,8 +10,6 @@ This application allows users to create, manage, and track tasks efficiently wit
 
 
 
----
-
 ## 📌 Features
 
 * 🔐 User Authentication (Login / Register)
