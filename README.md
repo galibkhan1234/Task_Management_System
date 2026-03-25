@@ -3,6 +3,13 @@
 A full-stack **Task Management System** built using the MERN stack (MongoDB, Express, React, Node.js).
 This application allows users to create, manage, and track tasks efficiently with authentication and a modern UI.
 
+<img width="1917" height="961" alt="Screenshot 2026-03-25 204943" src="https://github.com/user-attachments/assets/d2bce60d-a031-437d-b64b-ba55109b408c" />
+<img width="1916" height="959" alt="Screenshot 2026-03-25 204852" src="https://github.com/user-attachments/assets/2d447799-08a3-4541-b71d-ff7f22f9edf4" />
+<img width="1918" height="963" alt="Screenshot 2026-03-25 204909" src="https://github.com/user-attachments/assets/659d495c-157b-4526-b494-150f77430c2e" />
+
+
+
+
 ---
 
 ## 📌 Features
